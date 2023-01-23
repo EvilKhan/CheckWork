@@ -1,0 +1,15 @@
+D:\MyWork\Practice\GR3612\CheckWork\bin\Debug\net7.0\CheckWork.exe
+D:\MyWork\Practice\GR3612\CheckWork\bin\Debug\net7.0\CheckWork.deps.json
+D:\MyWork\Practice\GR3612\CheckWork\bin\Debug\net7.0\CheckWork.runtimeconfig.json
+D:\MyWork\Practice\GR3612\CheckWork\bin\Debug\net7.0\CheckWork.dll
+D:\MyWork\Practice\GR3612\CheckWork\bin\Debug\net7.0\CheckWork.pdb
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.csproj.AssemblyReference.cache
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.AssemblyInfoInputs.cache
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.AssemblyInfo.cs
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.csproj.CoreCompileInputs.cache
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.dll
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\refint\CheckWork.dll
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.pdb
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\CheckWork.genruntimeconfig.cache
+D:\MyWork\Practice\GR3612\CheckWork\obj\Debug\net7.0\ref\CheckWork.dll
