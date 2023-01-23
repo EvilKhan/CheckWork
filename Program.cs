@@ -2,7 +2,7 @@
 Console.WriteLine("Введите массив строк через пробел: ");
 string[] str1 = Console.ReadLine().Split(" ");
 string[] str2 = new string[str1.Length];
-void InputArray(string[] str11, string[] str2)
+void InputArray(string[] str1, string[] str2)
 {
     int count = 0;
     for (int i = 0; i < str1.Length; i++)
